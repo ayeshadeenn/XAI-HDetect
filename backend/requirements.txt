@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+transformers>=4.37.0
+torch>=2.0.0
+torchvision
+Pillow
+numpy
+opencv-python-headless
+joblib
+lightgbm
+sentence-transformers
+huggingface_hub
+shap
+scikit-learn
+accelerate
